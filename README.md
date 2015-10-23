@@ -4,3 +4,7 @@ Java jar that will allow you to view suspicious .msg files (content and attachme
 ## Usage
 * `./msgviewer.sh`
 * Drag the .msg file into the window.
+
+
+## Upstream Source
+* Source Forge Project http://sourceforge.net/projects/msgviewer/
